@@ -8,7 +8,7 @@ Click on the button below to deploy this repository with CI/CD on Elestio:
 
 <img src="images\screenshot-1.jpg" alt="screenshot of the Static app" width="100%" />
 
-# Steps to clone this repository and run locally
+# Steps to clone this repository
 
 
 ### Step 1: Clone this repository
