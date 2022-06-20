@@ -1,6 +1,6 @@
-# Static using Javascript on Elestio
+# Static HTML on Elestio
 
-This is a minimal example of a Static site created using Javascript
+This is a example of simple site created using HTML,CSS and Javascript
 
 Click on the button below to deploy this repository with CI/CD on Elestio:
 
