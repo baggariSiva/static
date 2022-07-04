@@ -5,6 +5,8 @@ config:
   buildCommand: ""
   buildDir: ""
   runCommand: ""
+  icon: "images/javascript.svg"
+  screenshot: "images/screenshot.jpg"
 ports:
   - protocol: "HTTPS"
     targetProtocol: "HTTP"
@@ -15,3 +17,6 @@ ports:
     isAuth: false
     login: ""
     password: ""
+webUI:
+  - url: "https://[CI_CD_DOMAIN]"
+    label: "Website"    
